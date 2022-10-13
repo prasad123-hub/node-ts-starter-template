@@ -29,6 +29,7 @@
 		"no-underscore-dangle": "off",
 		"no-shadow": "off",
 		"no-new": 0,
+		"no-console": "off",
 		"@typescript-eslint/no-shadow": ["error"],
 		"@typescript-eslint/no-unused-vars": "warn",
 		"quotes": [2, "single", { "avoidEscape": true }],
